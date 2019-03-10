@@ -1,0 +1,3 @@
+[submodule "swg"]
+	path = swg
+	url = https://github.com/Cekis/swg.git
